@@ -1,0 +1,5 @@
+[project]
+name = "oh-my-cassette"
+version = "0.1.0"
+description = "你的随身 AI 剪辑搭档 | Pocket AI co-editor for video montage — AI video editing plugin & MCP server for Claude Code, Codex, Hermes & OpenCode"
+requires-python = ">=3.10"
