@@ -34,3 +34,4 @@
 - docs: clarify the setup steps
 - docs: clarify the setup steps
 - docs: add a note about the defaults
+- docs: add a note about the defaults
